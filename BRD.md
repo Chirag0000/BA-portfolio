@@ -22,3 +22,23 @@ Out-Scope:-
 Stakeholders:- Customers, Customer service, engineering and design.
 
 Current State:- Customers view the final cost when they are about to make payment and they don't get to know any delivery date untill they have made the payment. Moreover, there is a lack of post-order tracking facility. This whole process gives out a bad reputation for the company and customer service is bombarded with questions.
+
+Future State:- Customers are able to see the estimated costs in cart and delivery date is visibleas well. Post-order tracking is accessible once the payment is made and guest sign up and guest checkout is available.
+
+Assumption:-
+1) shipping cost and tax to included when the user adds item to the cart.
+2) Real-time tracking will be integrated with the website.
+3) Delivery date will be visible with the cost paid by customer.
+
+Constraints:-
+1) Changes made to the system by adding the shipping cost and tax at cart system should not slow down the overall system.
+2) Guest checkout visibility change should not reduce account creation process.
+
+Success Criteria:-
+1) Customer service inbound calls reduced.
+2) Order dissatisfaction tied to delivery-date decreases.
+3) Guest account sign up increase.
+
+
+
+
