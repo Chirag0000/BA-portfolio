@@ -21,4 +21,4 @@ Out-Scope:-
 
 Stakeholders:- Customers, Customer service, engineering and design.
 
-Current State:-
+Current State:- Customers view the final cost when they are about to make payment and they don't get to know any delivery date untill they have made the payment. Moreover, there is a lack of post-order tracking facility. This whole process gives out a bad reputation for the company and customer service is bombarded with questions.
