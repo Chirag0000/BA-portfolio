@@ -1,3 +1,3 @@
-Project:- 
+Project:- To improve user experience on payment gateway and post-order experience.
 
-Executive summary:- 
+Executive summary:- The current system 
